@@ -1,0 +1,62 @@
+# Polityka Prywatności aplikacji Nawigacja ZS3
+
+**Data wejścia w życie:** [Data, np. 30 Marca 2026]
+
+## 1. Wstęp
+Niniejsza Polityka Prywatności określa zasady gromadzenia, przetwarzania i ochrony danych osobowych użytkowników aplikacji mobilnej **Nawigacja ZS3** (zwanej dalej "Aplikacją"). Twórcą i administratorem danych jest **Dawid Chaber** (zwany dalej "Administratorem").
+
+Zależy nam na ochronie Twojej prywatności. Prosimy o uważne zapoznanie się z poniższymi informacjami, aby zrozumieć, jakie dane zbieramy i w jaki sposób z nich korzystamy. Opublikowanie tego dokumentu jest wymogiem m.in. sklepu Google Play.
+
+## 2. Jakie dane gromadzimy?
+W zależności od funkcji, z których korzystasz w Aplikacji, możemy zbierać i przetwarzać następujące rodzaje informacji:
+
+*   **Dane podane przez Użytkownika:**
+    *   Informacje o koncie: np. adres e-mail, nazwa użytkownika (jeśli Aplikacja wymaga założenia konta lub logowania).
+    *   Informacje wprowadzane do Aplikacji: zgłoszenia błędów, zapisane preferencje dotyczące planu zajęć.
+*   **Dane zbierane automatycznie:**
+    *   **Dane o urządzeniu:** model urządzenia, wersja systemu operacyjnego, unikalne identyfikatory urządzenia (np. advertising ID niezbędne w celach analitycznych).
+    *   **Dane z logów (Log Data):** adres IP, data i godzina korzystania z Aplikacji, informacje o awariach aplikacji.
+*   **Uprawnienia urządzenia (wymagają Twojej wyraźnej zgody w systemie Android):**
+    *   **Aparat:** W celu skanowania kodów QR (np. do określania lokalizacji w szkole na mapie).
+    *   **Pamięć / Galeria:** W celu załączania zrzutów ekranu do systemu zgłaszania błędów (jeśli dotyczy).
+    <!-- Usuń lub dodaj uprawnienia, jeśli aplikacja wymaga lokalizacji GPS, mikrofonu itp. -->
+
+## 3. Cel przetwarzania danych
+Zgromadzone dane wykorzystujemy w następujących celach:
+*   Świadczenie, utrzymywanie i ulepszanie wszystkich funkcji Aplikacji (m.in. nawigacja po szkole, wyświetlanie planu zajęć).
+*   Rozwiązywanie problemów technicznych, analiza zgłaszanych błędów i poprawa wydajności (Crash Reporting).
+*   Zapewnienie bezpieczeństwa użytkowników i zapobieganie nieuprawnionemu dostępowi.
+*   Obsługa zapytań i komunikacja z użytkownikami (np. w odpowiedzi na kontakt z pomocą techniczną).
+
+## 4. Udostępnianie danych podmiotom trzecim
+Nie sprzedajemy Twoich danych osobowych. Możemy udostępniać informacje zaufanym podmiotom trzecim wyłącznie w niezbędnym zakresie, w celach technicznych:
+*   **Hosting i bazy danych:** Usługi takie jak **[wpisz np. Supabase, Firebase, AWS]**, służące do przechowywania planów lekcji, map, autoryzacji użytkowników i utrzymania backendu Aplikacji.
+*   **Analityka i raportowanie błędów:** Usługi takie jak **[wpisz np. Sentry, Firebase Crashlytics, Google Analytics]**, które pomagają nam diagnozować i naprawiać usterki w Aplikacji.
+
+Wszystkie zewnętrzne narzędzia i ich dostawcy przetwarzają dane zgodnie z własnymi rygorystycznymi politykami prywatności.
+
+## 5. Prawa Użytkownika (RODO)
+Zgodnie z rozporządzeniem o ochronie danych osobowych (RODO), przysługują Ci następujące prawa:
+*   Prawo dostępu do swoich danych.
+*   Prawo do sprostowania (poprawienia) danych.
+*   Prawo do usunięcia danych (tzw. "prawo do bycia zapomnianym") - możesz zażądać usunięcia swojego konta i powiązanych danych bezpośrednio z poziomu aplikacji lub poprzez kontakt e-mail.
+*   Prawo do ograniczenia przetwarzania.
+*   Prawo do wycofania zgody na przetwarzanie danych w dowolnym momencie.
+
+W celu realizacji swoich praw, skontaktuj się z nami poprzez podany na końcu dokumentu adres e-mail.
+
+## 6. Bezpieczeństwo danych
+Podejmujemy nowoczesne środki techniczne i organizacyjne, aby chronić Twoje dane przed nieautoryzowanym dostępem, modyfikacją, ujawnieniem lub zniszczeniem. Obejmuje to m.in. szyfrowanie transmisji danych (SSL/HTTPS) podczas komunikacji naszej Aplikacji z serwerem.
+
+## 7. Prywatność dzieci
+Aplikacja [Wybierz właściwe: nie jest skierowana bezpośrednio do dzieci poniżej 13 roku życia / jest udostępniana uczniom w celach edukacyjnych i organizacyjnych]. [Jeśli dotyczy dzieci: Nie gromadzimy intencjonalnie danych osobowych od dzieci poniżej 13 roku życia bez zgody rodziców/opiekunów. Jeśli dowiemy się, że zebraliśmy takie dane omyłkowo, niezwłocznie je usuniemy.] 
+
+## 8. Zmiany w Polityce Prywatności
+Zastrzegamy sobie prawo do aktualizacji niniejszej Polityki Prywatności w dowolnym momencie (np. ze względu na nowe wymogi Google Play lub dodanie nowych funkcji w Aplikacji). O wszelkich istotnych zmianach będziemy starali się informować Cię poprzez powiadomienie w Aplikacji. Nowa wersja wchodzi w życie z dniem opublikowania.
+
+## 9. Kontakt
+Jeśli masz jakiekolwiek pytania lub wątpliwości dotyczące tej Polityki Prywatności lub sposobu przetwarzania Twoich danych, skontaktuj się z administratorem:
+
+**Twórca Aplikacji:** Dawid Chaber
+**E-mail:** dcprojektapp@gmail.com
+**Strona internetowa:** [Adres www projektu, na którym będzie hostowana polityka, jeśli istnieje]
